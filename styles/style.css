@@ -131,10 +131,11 @@ body {
 @media (max-width: 1200px) {
     .presentacion {
         flex-direction: column-reverse;
-        padding: 2%;
+        padding: 7%;
     }
     .header__menu{
         justify-content: center;
+        gap: 50px;
     }
     .presentacion__contenido {
         width: auto;
